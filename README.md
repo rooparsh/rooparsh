@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with [Daily Planet](https://github.com/rooparsh/DailyPlanet)
 
-- 👨‍💻 All of my projects are available at [[Github]https://github.com/rooparsh?tab=repositories]([Github]https://github.com/rooparsh?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/rooparsh?tab=repositories)
 
-- 📝 I regulary write articles on [[Medium]https://medium.com/@rooparshkalia]([Medium]https://medium.com/@rooparshkalia)
+- 📝 I regulary write articles on [Medium](https://medium.com/@rooparshkalia)
 
 - 💬 Ask me about **Android, Kotlin, Java, Architecture Patterns**
 
