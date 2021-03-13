@@ -21,6 +21,11 @@
 
 - 📫 How to reach me **rooparshkalia@gmail.com**
 
+### Talks
+<!-- TALKS-LIST:START -->
+- [Bottom Up View of Coroutines](https://www.youtube.com/watch?v=L_W-9vDL94o)
+<!-- TALKS-LIST:END -->
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Single Choice Dialog with Jetpack Compose](https://medium.com/mindorks/single-choice-dialog-with-jetpack-compose-d021650d31ca?source=rss-adad8a9ccaaf------2)
