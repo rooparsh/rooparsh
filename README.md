@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/i_am_rooparsh" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_rooparsh?logo=twitter&style=for-the-badge" alt="i_am_rooparsh" /></a> </p>
 
-- 🔭 I’m currently working at [Mutual Mobile](https://mutualmobile.com/)
+- 🔭 I’m currently working at [Gojek](https://www.gojek.io/)
 
 - 🌱 I’m currently learning **Jetpack Compose and KMM**
 
