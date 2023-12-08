@@ -23,6 +23,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Single Choice Dialog with Jetpack Compose](https://medium.com/mindorks/single-choice-dialog-with-jetpack-compose-d021650d31ca?source=rss-adad8a9ccaaf------2)
+- [Dynamic Response Parser](https://medium.com/mindorks/dynamic-response-parser-3ec23fd050a7?source=rss-adad8a9ccaaf------2)
+- [Android Developer-A Journey](https://medium.com/@rooparshkalia/android-developer-a-journey-aa1830dbdacf?source=rss-adad8a9ccaaf------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
