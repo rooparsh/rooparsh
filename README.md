@@ -9,7 +9,7 @@
 </br>
 </br>
 
-- 🔭 I’m currently working at [Gojek](https://www.gojek.io/)
+- 🔭 I’m currently working at [Mercari]([https://about.in.mercari.com])
 
 - 🌱 I’m currently learning **Jetpack Compose and KMM**
 
